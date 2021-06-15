@@ -1,0 +1,32 @@
+
+
+
+
+#wrapper {
+	margin: 0 auto;
+	max-width: 54em;
+	padding-bottom: 3em;
+}
+
+#multi-wrapper {
+	margin: 0 auto;
+	max-width: 100em;
+	padding-bottom: 3em;
+}
+
+.earth-wrap {
+	display: inline-block;
+	width: 100%;
+	max-width: 30%;
+}
+
+
+.docs-tip {
+	font-weight: bold;
+	color: black;
+	font-size: 1.2em;
+	transform: translateX(-50%);
+	padding: 0 0.25em;
+	border-radius: 0.25em;
+	background-color: RGBA(255,255,255,0.66);
+}
